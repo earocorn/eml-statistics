@@ -1,0 +1,241 @@
+Site1
+Total Occupancies: 2645
+Total RPM Results:	Investigate: 139, Release: 2506, None: 0
+Total EML Results:	Investigate: 27, Release: 2555, None: 63
+
+D_F_L01_2018-02-12.txt
+Occupancies: 67
+RPM Results:	Investigate: 2, Release: 65, None: 0
+EML Results:	Investigate: 1, Release: 66, None: 0
+D_F_L01_2018-02-13.txt
+Occupancies: 63
+RPM Results:	Investigate: 2, Release: 61, None: 0
+EML Results:	Investigate: 0, Release: 61, None: 2
+D_F_L01_2018-02-04.txt
+Occupancies: 5
+RPM Results:	Investigate: 0, Release: 5, None: 0
+EML Results:	Investigate: 0, Release: 4, None: 1
+D_F_L01_2018-02-28.txt
+Occupancies: 1
+RPM Results:	Investigate: 0, Release: 1, None: 0
+EML Results:	Investigate: 0, Release: 1, None: 0
+D_F_L01_2018-02-14.txt
+Occupancies: 27
+RPM Results:	Investigate: 2, Release: 25, None: 0
+EML Results:	Investigate: 0, Release: 27, None: 0
+D_F_L01_2018-02-01.txt
+Occupancies: 44
+RPM Results:	Investigate: 4, Release: 40, None: 0
+EML Results:	Investigate: 1, Release: 41, None: 2
+D_F_L01_2018-02-15.txt
+Occupancies: 95
+RPM Results:	Investigate: 8, Release: 87, None: 0
+EML Results:	Investigate: 2, Release: 90, None: 3
+D_F_L01_2018-02-03.txt
+Occupancies: 13
+RPM Results:	Investigate: 0, Release: 13, None: 0
+EML Results:	Investigate: 0, Release: 12, None: 1
+D_F_L01_2018-02-17.txt
+Occupancies: 23
+RPM Results:	Investigate: 0, Release: 23, None: 0
+EML Results:	Investigate: 0, Release: 23, None: 0
+D_F_L01_2018-02-16.txt
+Occupancies: 102
+RPM Results:	Investigate: 17, Release: 85, None: 0
+EML Results:	Investigate: 2, Release: 99, None: 1
+D_F_L01_2018-02-02.txt
+Occupancies: 59
+RPM Results:	Investigate: 5, Release: 54, None: 0
+EML Results:	Investigate: 1, Release: 58, None: 0
+D_F_L01_2018-01-20.txt
+Occupancies: 13
+RPM Results:	Investigate: 0, Release: 13, None: 0
+EML Results:	Investigate: 0, Release: 13, None: 0
+D_F_L01_2018-04-10.txt
+Occupancies: 60
+RPM Results:	Investigate: 5, Release: 55, None: 0
+EML Results:	Investigate: 0, Release: 58, None: 2
+D_F_L01_2018-03-31.txt
+Occupancies: 27
+RPM Results:	Investigate: 0, Release: 27, None: 0
+EML Results:	Investigate: 0, Release: 26, None: 1
+D_F_L01_2018-03-30.txt
+Occupancies: 43
+RPM Results:	Investigate: 3, Release: 40, None: 0
+EML Results:	Investigate: 0, Release: 41, None: 2
+D_F_L01_2018-03-18.txt
+Occupancies: 6
+RPM Results:	Investigate: 0, Release: 6, None: 0
+EML Results:	Investigate: 0, Release: 4, None: 2
+D_F_L01_2018-04-11.txt
+Occupancies: 82
+RPM Results:	Investigate: 11, Release: 71, None: 0
+EML Results:	Investigate: 0, Release: 81, None: 1
+D_F_L01_2018-01-21.txt
+Occupancies: 4
+RPM Results:	Investigate: 1, Release: 3, None: 0
+EML Results:	Investigate: 1, Release: 3, None: 0
+D_F_L01_2018-04-13.txt
+Occupancies: 207
+RPM Results:	Investigate: 11, Release: 196, None: 0
+EML Results:	Investigate: 1, Release: 206, None: 0
+D_F_L01_2018-03-26.txt
+Occupancies: 78
+RPM Results:	Investigate: 0, Release: 78, None: 0
+EML Results:	Investigate: 1, Release: 77, None: 0
+D_F_L01_2018-03-27.txt
+Occupancies: 115
+RPM Results:	Investigate: 1, Release: 114, None: 0
+EML Results:	Investigate: 0, Release: 115, None: 0
+D_F_L01_2018-04-12.txt
+Occupancies: 287
+RPM Results:	Investigate: 20, Release: 267, None: 0
+EML Results:	Investigate: 7, Release: 278, None: 2
+D_F_L01_2018-01-31.txt
+Occupancies: 33
+RPM Results:	Investigate: 6, Release: 27, None: 0
+EML Results:	Investigate: 1, Release: 29, None: 3
+D_F_L01_2018-01-19.txt
+Occupancies: 22
+RPM Results:	Investigate: 1, Release: 21, None: 0
+EML Results:	Investigate: 0, Release: 21, None: 1
+D_F_L01_2018-04-01.txt
+Occupancies: 14
+RPM Results:	Investigate: 0, Release: 14, None: 0
+EML Results:	Investigate: 0, Release: 13, None: 1
+D_F_L01_2018-04-15.txt
+Occupancies: 18
+RPM Results:	Investigate: 0, Release: 18, None: 0
+EML Results:	Investigate: 0, Release: 15, None: 3
+D_F_L01_2018-04-14.txt
+Occupancies: 31
+RPM Results:	Investigate: 0, Release: 31, None: 0
+EML Results:	Investigate: 0, Release: 30, None: 1
+D_F_L01_2018-01-18.txt
+Occupancies: 31
+RPM Results:	Investigate: 2, Release: 29, None: 0
+EML Results:	Investigate: 2, Release: 27, None: 2
+D_F_L01_2018-01-30.txt
+Occupancies: 25
+RPM Results:	Investigate: 1, Release: 24, None: 0
+EML Results:	Investigate: 1, Release: 24, None: 0
+D_F_L01_2018-01-29.txt
+Occupancies: 70
+RPM Results:	Investigate: 4, Release: 66, None: 0
+EML Results:	Investigate: 3, Release: 64, None: 3
+D_F_L01_2018-01-15.txt
+Occupancies: 37
+RPM Results:	Investigate: 0, Release: 37, None: 0
+EML Results:	Investigate: 0, Release: 36, None: 1
+D_F_L01_2018-01-01.txt
+Occupancies: 10
+RPM Results:	Investigate: 0, Release: 10, None: 0
+EML Results:	Investigate: 0, Release: 10, None: 0
+D_F_L01_2018-04-25.txt
+Occupancies: 134
+RPM Results:	Investigate: 4, Release: 130, None: 0
+EML Results:	Investigate: 0, Release: 132, None: 2
+D_F_L01_2018-03-04.txt
+Occupancies: 9
+RPM Results:	Investigate: 0, Release: 9, None: 0
+EML Results:	Investigate: 0, Release: 9, None: 0
+D_F_L01_2018-04-24.txt
+Occupancies: 128
+RPM Results:	Investigate: 2, Release: 126, None: 0
+EML Results:	Investigate: 0, Release: 125, None: 3
+D_F_L01_2018-01-02.txt
+Occupancies: 20
+RPM Results:	Investigate: 0, Release: 20, None: 0
+EML Results:	Investigate: 0, Release: 20, None: 0
+D_F_L01_2018-01-16.txt
+Occupancies: 53
+RPM Results:	Investigate: 3, Release: 50, None: 0
+EML Results:	Investigate: 1, Release: 51, None: 1
+D_F_L01_2018-03-13.txt
+Occupancies: 54
+RPM Results:	Investigate: 2, Release: 52, None: 0
+EML Results:	Investigate: 0, Release: 51, None: 3
+D_F_L01_2018-03-12.txt
+Occupancies: 25
+RPM Results:	Investigate: 2, Release: 23, None: 0
+EML Results:	Investigate: 0, Release: 25, None: 0
+D_F_L01_2018-01-17.txt
+Occupancies: 26
+RPM Results:	Investigate: 1, Release: 25, None: 0
+EML Results:	Investigate: 1, Release: 24, None: 1
+D_F_L01_2018-01-03.txt
+Occupancies: 19
+RPM Results:	Investigate: 0, Release: 19, None: 0
+EML Results:	Investigate: 0, Release: 15, None: 4
+D_F_L01_2018-01-07.txt
+Occupancies: 9
+RPM Results:	Investigate: 0, Release: 9, None: 0
+EML Results:	Investigate: 0, Release: 6, None: 3
+D_F_L01_2018-03-02.txt
+Occupancies: 18
+RPM Results:	Investigate: 3, Release: 15, None: 0
+EML Results:	Investigate: 0, Release: 18, None: 0
+D_F_L01_2018-03-16.txt
+Occupancies: 4
+RPM Results:	Investigate: 0, Release: 4, None: 0
+EML Results:	Investigate: 0, Release: 4, None: 0
+D_F_L01_2018-04-23.txt
+Occupancies: 102
+RPM Results:	Investigate: 0, Release: 102, None: 0
+EML Results:	Investigate: 0, Release: 97, None: 5
+D_F_L01_2018-03-17.txt
+Occupancies: 0
+RPM Results:	Investigate: 0, Release: 0, None: 0
+EML Results:	Investigate: 0, Release: 0, None: 0
+D_F_L01_2018-03-03.txt
+Occupancies: 3
+RPM Results:	Investigate: 0, Release: 3, None: 0
+EML Results:	Investigate: 0, Release: 2, None: 1
+D_F_L01_2018-01-06.txt
+Occupancies: 5
+RPM Results:	Investigate: 0, Release: 5, None: 0
+EML Results:	Investigate: 0, Release: 5, None: 0
+D_F_L01_2018-01-04.txt
+Occupancies: 41
+RPM Results:	Investigate: 3, Release: 38, None: 0
+EML Results:	Investigate: 0, Release: 39, None: 2
+D_F_L01_2018-03-15.txt
+Occupancies: 55
+RPM Results:	Investigate: 2, Release: 53, None: 0
+EML Results:	Investigate: 1, Release: 54, None: 0
+D_F_L01_2018-03-01.txt
+Occupancies: 8
+RPM Results:	Investigate: 0, Release: 8, None: 0
+EML Results:	Investigate: 0, Release: 8, None: 0
+D_F_L01_2018-03-29.txt
+Occupancies: 26
+RPM Results:	Investigate: 4, Release: 22, None: 0
+EML Results:	Investigate: 0, Release: 25, None: 1
+D_F_L01_2018-03-28.txt
+Occupancies: 50
+RPM Results:	Investigate: 1, Release: 49, None: 0
+EML Results:	Investigate: 0, Release: 50, None: 0
+D_F_L01_2018-04-09.txt
+Occupancies: 0
+RPM Results:	Investigate: 0, Release: 0, None: 0
+EML Results:	Investigate: 0, Release: 0, None: 0
+D_F_L01_2018-03-14.txt
+Occupancies: 40
+RPM Results:	Investigate: 4, Release: 36, None: 0
+EML Results:	Investigate: 0, Release: 40, None: 0
+D_F_L01_2018-01-05.txt
+Occupancies: 44
+RPM Results:	Investigate: 2, Release: 42, None: 0
+EML Results:	Investigate: 0, Release: 43, None: 1
+D_F_L01_2018-02-27.txt
+Occupancies: 11
+RPM Results:	Investigate: 0, Release: 11, None: 0
+EML Results:	Investigate: 0, Release: 11, None: 0
+D_F_L01_2018-02-26.txt
+Occupancies: 14
+RPM Results:	Investigate: 0, Release: 14, None: 0
+EML Results:	Investigate: 0, Release: 14, None: 0
+D_F_L01_2018-02-18.txt
+Occupancies: 35
+RPM Results:	Investigate: 0, Release: 35, None: 0
+EML Results:	Investigate: 0, Release: 34, None: 1

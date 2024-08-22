@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="bcmail-jdk14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/bcmail-jdk14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/bcprov-jdk14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/edu.cmu.cs.auton.classifiers.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/fontbox.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/gov.llnl.ernie.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/gov.llnl.ernie.raven.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/gov.llnl.ernie.vm250.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/gov.llnl.math.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/gov.llnl.utility.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/itext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/javatuples.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/javax.activation-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/jaxb-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/jcommander.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/jcommon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/jeromq-0.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/jfreechart.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/jnacl-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/jopt-simple.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/pdfbox.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/protobuf-java-3.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/sqlite-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/testng.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EML-VM250-v0.9.1/jars/xml-apis.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
